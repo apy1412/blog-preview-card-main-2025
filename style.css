@@ -55,6 +55,10 @@ h1{
     font-size: 2.2rem;
 }
 
+h1:active{
+    color:var(--bg-color);
+}
+
 span{
     color: var(--font-dark);
 }
